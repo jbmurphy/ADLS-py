@@ -5,8 +5,8 @@
       "details": {
         "protocol": "azure-data-lake-storage",
         "address": {
-          "server": "https://jemurphy01.dfs.core.windows.net",
-          "path": "/default/jemurphy"
+          "server": "https://storagename.dfs.core.windows.net",
+          "path": "/FileSystem/FolderName"
         }
       },
       "options": {},
